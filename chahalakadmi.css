@@ -7,7 +7,9 @@ h1 {
   margin:0px;
 }
 body{
-background-image: url("chahalakadami.github.io/20201017_230103.jpg");
+background-image: url("chahalakadami.github.io/20171003_114433.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
 margin:0px;
 color: #FFFFFF;
 text-align: center;
