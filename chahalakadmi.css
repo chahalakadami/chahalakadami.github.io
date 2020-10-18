@@ -22,6 +22,10 @@ div.transbox {
   background-color: #5785c0;
   border: 0px solid black;
   opacity: 0.4;
+}
+div.transbox p {
+  margin: 5%;
+  font-weight: bold;
   color: #FFFFFF;
 }
   
