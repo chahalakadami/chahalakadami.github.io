@@ -21,4 +21,6 @@ color: #FFFFFF;
 text-align: center;
 font-size: 20px;
 }
-
+pre{
+  line-height:1.6;
+}
