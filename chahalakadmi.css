@@ -23,7 +23,7 @@ div.transbox {
   border: 0px solid black;
   opacity: 0.4;
 }
-div.transbox p {
+div.transbox pre {
   margin: 5%;
   font-weight: bold;
   color: #FFFFFF;
