@@ -31,6 +31,7 @@ div.first {
 }
 pre{
   line-height:1.8;
+  white-space: pre-wrap;
 }
 a:link {
   color: #FFFFFF;
