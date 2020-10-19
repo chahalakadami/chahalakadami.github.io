@@ -25,14 +25,6 @@ text-shadow: -1px 0 #5785c0, 0 1px #5785c0, 1px 0 #5785c0, 0 -1px #5785c0;
 pre{
   line-height:1.8;
 }
-div {
-  background: rgb(87, 133, 192);
-  padding: 10px;
-}
-
-div.first {
-  background: rgba(87, 133, 192, 0.4);
-}
 a:link {
   color: #FFFFFF;
   text-decoration: none;
