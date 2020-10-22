@@ -25,7 +25,7 @@ body{
 @media only screen and (min-width: 400px) {
 body{
   background-image: url("https://chahalakadami.github.io/20171003_114433.jpg");
-  background-size: cover;
+  background-size: 100% auto;
 }
 }
 div {
