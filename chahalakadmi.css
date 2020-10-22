@@ -11,7 +11,6 @@ font-size: 25px;
 font-weight:bold;
 }
 body{
-background-size: 100% 100%;
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-color:#5785c0;
@@ -26,6 +25,7 @@ body{
 @media only screen and (min-width: 400px) {
 body{
   background-image: url("https://chahalakadami.github.io/20171003_114433.jpg");
+  background-size: 100% 100%;
 }
 }
 div {
