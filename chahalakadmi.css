@@ -11,7 +11,6 @@ font-size: 25px;
 font-weight:bold;
 }
 body{
-background-image: url("chahalakadami.github.io/20171003_114433.jpg");
 background-size: 100% 100%;
 background-repeat: no-repeat;
 background-attachment: fixed;
@@ -20,6 +19,9 @@ margin:0px;
 color: #FFFFFF;
 text-align: center;
 font-size: 20px;
+}
+body{
+  background-image: url("chahalakadami.github.io/20171003_114433.jpg");
 }
 div {
   background: rgb(87, 133, 192);
