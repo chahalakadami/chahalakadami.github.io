@@ -29,12 +29,14 @@ body{
 }
 }
 div {
-  background: rgb(87, 133, 192);
-  padding: 10px;
-}
-
-div.first {
-  background: rgba(87, 133, 192, 0.5);
+  background-color: rgba(87, 133, 192, 0.5);
+  width: auto;
+  padding: auto;
+  margin-top:0px;
+  margin-bottom:0px;
+  margin-left:auto;
+  margin-right:auto;
+  
 }
 pre{
   line-height:1.8;
