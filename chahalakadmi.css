@@ -30,7 +30,7 @@ body{
 }
 div {
   background-color: rgba(87, 133, 192, 0.5);
-  width: auto;
+  max-width: 500px;
   padding: auto;
   margin-top:0px;
   margin-bottom:0px;
