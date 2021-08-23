@@ -30,6 +30,9 @@ body{
   
   .collapsible {
 }
+  .active, .collapsible:hover {
+  
+}
   
 div {
   background-color: rgba(87, 133, 192, 0.5);
